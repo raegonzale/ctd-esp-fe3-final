@@ -17,7 +17,7 @@ const Navbar = () => {
       <div className="container-navbar">
         <div className="container-dh">
           <img className="logodh" src= {logo} /> 
-          <h2>Clinic</h2>
+          <h2>Clinica Odontologica</h2>
         </div>
 
         <div className="container-items">
@@ -35,7 +35,7 @@ const Navbar = () => {
               isActive ? "navbar-items-active" : "navbar-items"
             }
           >
-            Dentists
+            Odontologos
           </NavLink>
           <NavLink
             to="/favs"
@@ -43,7 +43,7 @@ const Navbar = () => {
               isActive ? "navbar-items-active" : "navbar-items"
             }
           >
-            Favs
+            Favoritos
           </NavLink>
           <NavLink
             to="/contacto"
@@ -51,7 +51,7 @@ const Navbar = () => {
               isActive ? "navbar-items-active" : "navbar-items"
             }
           >
-            Contact
+            Contactanos
           </NavLink>
           <FormGroup>
             <FormControlLabel

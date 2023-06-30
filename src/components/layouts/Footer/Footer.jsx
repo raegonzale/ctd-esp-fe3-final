@@ -18,10 +18,10 @@ const Footer = () => {
           <img className="dh" src={DH} />    
         </div>
         <div className="redes">
-          <img className="pequena" src={icofb} />
-          <img className="pequena" src={icoin} />
-          <img className="pequena" src={icoti} />
-          <img className="pequena" src={icowh} />
+          <img className="link" src={icofb} />
+          <img className="link" src={icoin} />
+          <img className="link" src={icoti} />
+          <img className="link" src={icowh} />
         </div>
       </div>
     </div>

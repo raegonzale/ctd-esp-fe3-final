@@ -1,17 +1,20 @@
 .container-navbar {
-  width: 100%;
+  width: 300 px;
   height: 10vh;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding: 0px 2rem;
-  background-color: #d2b4de;
+  background-color: #db81d7;
+
+  
 }
+
 
 .container-dh {
   color: whitesmoke;
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
   align-items: center;
 }
 
@@ -40,12 +43,12 @@
 }
 
 .light {
-  background-color: rgba(120, 120, 120, 0);
+  background-color: rgba(221, 199, 199, 0);
   color: black;
 }
 
 .dark {
-  background-color: rgb(70, 70, 70);
+  background-color: rgb(12, 10, 10);
   color: white;
 }
 
