@@ -1,0 +1,16 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+  padding: 1rem;
+  text-align: justify;
+}
+.texto {
+  display: flex;
+  flex-direction: column;
+  padding: 4rem;
+  text-align: left;
+  gap: 2rem;
+  font-size: x-large;
+}
